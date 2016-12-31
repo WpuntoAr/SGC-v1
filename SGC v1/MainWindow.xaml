@@ -10,6 +10,7 @@
         <Storyboard x:Key="OnMouseEnter1"/>
     </Window.Resources>
     <Grid>
+        <Button x:Name="PruebaLeo" Content="Prueba Leo" HorizontalAlignment="Left" Margin="142,294,0,0" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="button2" Content="Button" HorizontalAlignment="Left" Margin="142,196,0,0" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="button1" Content="Button" HorizontalAlignment="Left" Margin="142,126,0,0" VerticalAlignment="Top" Width="76"/>
         <Calendar HorizontalAlignment="Left" Margin="389,146,0,0" VerticalAlignment="Top"/>
